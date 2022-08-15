@@ -5,6 +5,7 @@ import JAVASCRIPT from "../assets/images/Skills/Javascript.png";
 import PYTHON from "../assets/images/Skills/Python.png";
 import NODE_JS from "../assets/images/Skills/Node_JS.png";
 import React_Logo from '../assets/images/Skills/React_Logo.png';
+import PHP from "../assets/images/Skills/Php.png";
 
 const STUDENT_NAME = "Sanika Khirit";
 const FIRST_NAME = "Sanika";
@@ -76,7 +77,13 @@ const SKILLS = [
         id: 6,
         name: "Python",
         img_src: PYTHON,
+    },
+    {
+        id: 7,
+        name: "Php",
+        img_src: PHP,
     }
+
     
     
 ];
