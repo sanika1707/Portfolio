@@ -26,8 +26,8 @@ const EMAIL_JS_PUBLIC_KEY = "UmW-ItS757_9uPedl";
 
 const PROJECTS = [
     {
-        name: "Result Generation and Analysis System",
-        github: "https://github.com/Dnyanesh-Bachhav/Result-Generation-and-Analysis-System",
+        name: "Advance Stationary Shopping site",
+        github: "https://github.com/sanika1707/ecommerce",
     },
     {
         name: "CoinStack",
