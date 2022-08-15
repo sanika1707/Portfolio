@@ -18,7 +18,7 @@ function Portfolio(){
                     </div>
                     <h3 className="project__title">{project.name}</h3>
                     <a href={project.github} target="_blank" rel="noreferrer" className="button__portfolio">Github</a>
-                    <a href="https://github.com/Dnyanesh-Bachhav" rel="noreferrer" target="_blank" className="button__portfolio ml-2">Demo</a>
+                    <a href="https://github.com/sanika1707" rel="noreferrer" target="_blank" className="button__portfolio ml-2">Demo</a>
                 </article>
                 ))
             }
