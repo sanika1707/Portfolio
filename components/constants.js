@@ -30,20 +30,20 @@ const PROJECTS = [
         github: "https://github.com/sanika1707/ecommerce",
     },
     {
-        name: "CoinStack",
-        github: "https://github.com/Dnyanesh-Bachhav/Crypto-Market",
+        name: "Project Name",
+        github: "",
     },
     {
-        name: "IPL App",
-        github: "https://github.com/Dnyanesh-Bachhav/IPL-app",
+        name: "Project Name",
+        github: "",
     },
     {
-        name: "Dynamic Shop Application",
-        github: "https://github.com/Dnyanesh-Bachhav/Dynamic-Shop-Application",
+        name: "Project Name",
+        github: "",
     },
     {
-        name: "Marathi Status App",
-        github: "https://github.com/Dnyanesh-Bachhav/Jarvis-in-Javascript",
+        name: "Project Name",
+        github: "",
     }
 ];
 const SKILLS = [
